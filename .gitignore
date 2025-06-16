@@ -1,0 +1,24 @@
+## Git Ignore Setup
+Add the following `.gitignore` file to the project to exclude unnecessary files:
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# dotenv environment variable file
+*.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp

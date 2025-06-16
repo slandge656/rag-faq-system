@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+bcrypt
+jwt
+faiss-cpu
+sentence-transformers
+openai
